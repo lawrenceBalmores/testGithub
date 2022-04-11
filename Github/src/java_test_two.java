@@ -2,7 +2,7 @@
 public class java_test_two {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.print("Congrats! You successfully pushed a block of code!");
 
 	}
 
